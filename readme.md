@@ -12,7 +12,7 @@ events:\
 \- [event_type, events_path, [events_columns]]\
 \- [event_type, events_path, [events_columns]]\
 modules: [applied_modules]\
-output_path: output_path\
+output_path: output_path
 
 
 ## Problem description (in Russian)
