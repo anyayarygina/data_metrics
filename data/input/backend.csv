@@ -1,0 +1,3 @@
+| 1469627670 | 123 | get_metadata | {“dashboard_id”: 5} |
+| 1469627678 | 124 | get_metadata | {“dashboard_id”: 6} |
+| 1469627680 | 123 | get_metadata | {“dashboard_id”: 7   ,“filter”: 1} |

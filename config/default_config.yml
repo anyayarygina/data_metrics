@@ -1,0 +1,7 @@
+users: [./data/input/users.csv, ['',user_id,sex,name,age, phone,'']]
+events:
+- [pageviews, ./data/input/pageviews.csv, ['',timestamp,user_id,page_name,referrer,'']]
+- [backend, ./data/input/backend.csv, ['',timestamp,user_id,event_name,parameters_value,'']]
+modules: [home_metrics, count_metrics]
+output_path: ./data/output/
+
